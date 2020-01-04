@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "55942636617",
+    "firebase_url": "https://fastack-5ab97.firebaseio.com",
+    "project_id": "fastack-5ab97",
+    "storage_bucket": "fastack-5ab97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55942636617:android:42c3f64d83f2aa02b30b98",
+        "android_client_info": {
+          "package_name": "com.yarmadadgar.fastack_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55942636617-1gckmgko45fejc4q4qsmvh0dgd12acvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yarmadadgar.fastack_admin",
+            "certificate_hash": "94b76a928c7c17278a1138affc900115dab53462"
+          }
+        },
+        {
+          "client_id": "55942636617-v0v05gf5fi5riqcrtssdoca1257c62a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwLnLmULS6wP98EVAi43wsC9pNCPH9owI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55942636617-v0v05gf5fi5riqcrtssdoca1257c62a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
